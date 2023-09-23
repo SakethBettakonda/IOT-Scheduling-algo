@@ -1,0 +1,38 @@
+
+FCFS Scheduling:
+Process		WT		TAT
+P1		0		24
+P2		24		27
+P3		27		30
+P4		30		42
+Average WT: 20.25
+Average TAT: 30.75
+
+SJF Scheduling:
+Process		WT		TAT
+P1		0		24
+P2		24		27
+P3		27		30
+P4		30		42
+Average WT: 20.25
+Average TAT: 30.75
+
+PS Scheduling:
+Process		WT		TAT
+P1		0		24
+P2		24		27
+P3		27		30
+P4		30		42
+Average WT: 20.25
+Average TAT: 30.75
+
+RR Scheduling:
+Process		WT		TAT
+P1		18		42
+P2		4		7
+P3		7		10
+P4		18		30
+Average WT: 11.75
+Average TAT: 22.25
+
+Most suitable scheduling algorithm is RR with average waiting time of 11.75 and average turnaround time of 22.25
