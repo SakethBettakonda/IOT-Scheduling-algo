@@ -1,0 +1,1 @@
+Most suitable scheduling algorithm is RR with average waiting time of 11.75 and average turnaround time of 22.25 for question 1
